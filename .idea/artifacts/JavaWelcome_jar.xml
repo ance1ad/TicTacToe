@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaWelcome:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaWelcome_jar</output-path>
+    <root id="archive" name="JavaWelcome.jar">
+      <element id="module-output" name="JavaWelcome" />
+    </root>
+  </artifact>
+</component>
